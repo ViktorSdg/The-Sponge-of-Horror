@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<CrashGUID>UE4CC-Windows-1295FC8641BB74F84AF733BAE248C08C_0000</CrashGUID>
+<ProcessId>4824</ProcessId>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<IsEnsure>true</IsEnsure>
+<IsAssert>false</IsAssert>
+<CrashType>Ensure</CrashType>
+<SecondsSinceStart>4947</SecondsSinceStart>
+<GameName>UE4-Test_World_SoH</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.13.2-3172292+++UE4+Release-4.13</EngineVersion>
+<CommandLine>&quot;C:\Users\Andreas\Documents\GitHub\The-Sponge-of-Horror\Test_World_SoH\Test_World_SoH.uproject&quot; </CommandLine>
+<LanguageLCID>9</LanguageLCID>
+<AppDefaultLocale>sv_SE</AppDefaultLocale>
+<IsUE4Release>true</IsUE4Release>
+<UserName></UserName>
+<BaseDir>C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/</BaseDir>
+<RootDir>C:/Program Files (x86)/Epic Games/4.13/</RootDir>
+<MachineId>0F3A05AB4044E9A6329C72B30D15C83D</MachineId>
+<EpicAccountId>4ed519ceb0724dae89056cd53229df6d</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<ErrorMessage>Ensure condition failed: ExpectedWorkThisFrame &lt;= 1.01f * TotalAmountOfWork - CompletedWork [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Core\Public\Misc\FeedbackContext.h] [Line: 336] &nl;Work overflow in slow task. Please revise call-site to account for entire progress range.&nl;</ErrorMessage>
+<CrashDumpMode>0</CrashDumpMode>
+<CrashReporterMessage></CrashReporterMessage>
+<Misc.NumberOfCores>4</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>8</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 970</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>17119559680</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>9114185728</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>140732463673344</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>2037899264</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>2332110848</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>3166339072</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>3391795200</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+</FGenericCrashContext>
